@@ -97,3 +97,26 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+
+
+<!-- COMENTARIOS JONAS -->
+
+```shell
+
+$ npm install -g gatsby-cli
+
+$ gatsby new my-blog
+
+$ npm install gatsby-image
+
+
+```
+
+
+[gatsby-image](https://www.gatsbyjs.com/plugins/gatsby-image/)
+
+[using-gatsby-image](https://using-gatsby-image.gatsbyjs.org/blur-up/)
+
+[graphql-playground](https://www.gatsbyjs.com/docs/using-graphql-playground/)
+
