@@ -102,6 +102,10 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
 
 <!-- COMENTARIOS JONAS -->
 
+
+# COMANDOS JONAS
+
+
 ```shell
 
 $ npm install -g gatsby-cli
@@ -110,9 +114,21 @@ $ gatsby new my-blog
 
 $ npm install gatsby-image
 
+##Instalar styled Component
+$ npm install --save styled-components
+
+$ npm install gatsby-plugin-styled-components
+##ou
+$ yarn add gatsby-plugin-styled-components
+
+$ npm install styled-icons
+##ou
+$ yarn add styled-icons
 
 ```
 
+
+[gatsby-course](https://github.com/willianjusten/gatsby-course)
 
 [gatsby-image](https://www.gatsbyjs.com/plugins/gatsby-image/)
 
@@ -120,3 +136,32 @@ $ npm install gatsby-image
 
 [graphql-playground](https://www.gatsbyjs.com/docs/using-graphql-playground/)
 
+[styled-components](https://styled-components.com/)
+
+[createglobalstyle](https://styled-components.com/docs/api#createglobalstyle)
+
+
+
+## Instalar styled Component
+
+$ npm install --save styled-components
+
+$ npm install gatsby-plugin-styled-components
+
+$ yarn add gatsby-plugin-styled-components
+
+
+
+## VSCode
+VSCode
+Opa, eu uso duas extensões no meu VSCode:
+
+- GraphQL
+- Apollo GraphQL
+
+
+As duas aplicam syntax highlighting, para deixar assim bonitinho.
+
+
+### Setings VSCode do Programador do Curso
+[cloudSettings](https://gist.github.com/willianjusten/5d469f31516cda667dba94fa0948f1c3)
