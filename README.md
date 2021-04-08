@@ -150,6 +150,8 @@ $ npm install gatsby-plugin-styled-components
 
 $ yarn add gatsby-plugin-styled-components
 
+$  npm install --save gatsby-transformer-remark 
+
 
 
 ## VSCode
